@@ -1,0 +1,20 @@
+{
+  "name": "newb.quest.life",
+  "version": "1.0.0",
+  "description": "* Newb Quest Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxengelhard/GitHub-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxengelhard/GitHub-Training/issues"
+  },
+  "homepage": "https://github.com/maxengelhard/GitHub-Training#readme"
+}
